@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lalolita
+- 🌱 I’m studing Data Science at Le Wagon
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning AWS
