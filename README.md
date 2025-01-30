@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @lalolita
-- 🌱 I’m studing Data Science at Le Wagon
-- 👀 I’m interested in learning new things
+- 🌱 I’m a graduate of Data Science @ [Le Wagon](https://www.lewagon.com)
+- 👀 I’m interested in Python
